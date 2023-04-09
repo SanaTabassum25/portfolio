@@ -1,0 +1,29 @@
+<section class="skills" id="skills">
+        <div class="max-width">
+            <h2 class="title">Skills</h2>
+            <div class="serv-content">
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-paint-brush"></i>
+                        <div class="text">Web Design</div>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-code"></i>
+                        <div class="text">Java</div>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-code"></i>
+                        <div class="text">Python</div>
+                        <p>dbchds sjkcbd cjscd ksjdcdcn kjdlknc</p>
+                    </div>
+                </div>
+        
+            </div>
+        </div>
+    </section>
