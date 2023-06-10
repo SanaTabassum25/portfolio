@@ -362,6 +362,52 @@ footer span a:hover{
 }
 
 
+@media (max-width: 768px) {
+.skills {
+    flex-direction: column;
+}
+  
+.skills .skill-item {
+    margin-bottom: 1rem;
+}
+  
+.navbar .menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    padding: 1rem;
+    text-align: center;
+}
+  
+.navbar .menu li {
+    display: block;
+    margin-bottom: 10px;
+}
+  
+.navbar .toggle-menu {
+    display: block;
+    }
+}
+  
+  /* Styles for screens smaller than 480px */
+@media (max-width: 480px) {
+    .navbar .logo {
+    display: none;
+}
+  
+.navbar .menu {
+    padding: 0;
+}
+  
+.navbar .menu li {
+    margin-bottom: 0;
+    display: inline-block;
+}
+}
+
 
 
 
